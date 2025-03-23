@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+boto3
+opencv-python
+Pillow
+torch
+torchvision
+ultralytics
+python-dotenv
+python-multipart
+transformers
