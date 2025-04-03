@@ -1,4 +1,6 @@
 .env
 venv/
 app/static/
+app/assets/
 weights/
+__pycache__/
